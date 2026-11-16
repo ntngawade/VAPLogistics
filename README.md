@@ -1,4 +1,4 @@
-# VAP Logistics static website
+﻿# VAP Logistics static website
 
 A responsive rebuild of vaplogistics.com using the supplied new logo and locally stored images from the existing website. No Wix runtime, external fonts, package installation or build step is required.
 
@@ -25,6 +25,7 @@ Navigation and enquiry flow: dist/app.js
 Logo and site images: dist/assets/
 
 ## Status
-Prepared for GitHub and Cloudflare. No repository has been created or pushed and no production domain or Wix configuration has been changed.
+Source published to https://github.com/ntngawade/VAPLogistics on the main branch. Ready to connect to Cloudflare Pages. No production domain or Wix configuration has been changed.
 
 Business enquiries open WhatsApp to Vikram Vaje, +91 86003 33148, with the form details. Customers must press Send in WhatsApp; the website does not send or store enquiries itself.
+
